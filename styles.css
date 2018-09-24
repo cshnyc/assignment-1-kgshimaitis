@@ -1,6 +1,19 @@
 h1{
   color: pink;
 }
+
 body{
-  background-color: #0099ff;
+  background-color: #42f4d1
+}
+
+.warning{
+color:#7741f4
+}
+
+p1{
+ color: blue
+}
+
+p2{
+  color: purple
 }
