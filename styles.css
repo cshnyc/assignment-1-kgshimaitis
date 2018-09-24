@@ -1,5 +1,6 @@
 h1{
   color: pink;
+  font-stretch: expanded;
 }
 
 body{
@@ -11,9 +12,13 @@ color:#7741f4
 }
 
 p1{
- color: blue
+ color: blue;
+ font-size: 150px;
+
 }
 
 p2{
-  color: purple
+  color: purple;
+  font-family: cursive;
+  font-size: 85px
 }
